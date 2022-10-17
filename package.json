@@ -1,8 +1,23 @@
 {
-    "scripts": {
-        "echo": "echo 'Hello World'"
-    },
-    "dependencies": {
-        "discord.js": "^14.6.0"
-    }
+  "scripts": {
+    "echo": "echo 'Hello World'"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "name": "garade-s-farm",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duo-28/garade-s-farm.git"
+  },
+  "author": "owe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duo-28/garade-s-farm/issues"
+  },
+  "homepage": "https://github.com/duo-28/garade-s-farm#readme"
 }
