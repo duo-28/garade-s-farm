@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "echo": "echo 'Hello World'"
+    "echo": "echo 'Hello World'",
+    "lint": "eslint src/**/*.js"
   },
   "dependencies": {
     "discord.js": "^14.6.0"
@@ -9,7 +10,9 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/duo-28/garade-s-farm.git"
